@@ -7,7 +7,7 @@
 
 이 저장소는 제가 공부한 내용을 기반으로 진행한 개인 프로젝트를 공유하기 위한 공간입니다.
 
-## 💻 Languages or 분야
+## 💻 Tech Stack & Tools
 
 ![Digital Twin](https://img.shields.io/badge/Digital%20Twin-%23007ACC.svg?style=flat&logo=digitalocean&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23bb69b4.svg?style=flat&logo=c-sharp&logoColor=white)
