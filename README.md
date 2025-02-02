@@ -3,7 +3,7 @@
 
 안녕하세요! 
 
-저는 Digital Twin, Digital Factory, Metaverse, AX, AI, LLM, Unity, Unreal, OpenGL, IOCP 서버, Akka.NET, C#, C++등에 관심이 많은 개발자입니다. 
+저는 Digital Twin, Digital Factory, Metaverse, AX, AI, LLM, Unity, Unreal, OpenGL, IOCP 서버, Akka.NET, C#, C++, React, WebAPI, 도커 등에 관심이 많은 개발자입니다. 
 
 이 저장소는 제가 공부한 내용을 기반으로 진행한 개인 프로젝트를 공유하기 위한 공간입니다.
 
