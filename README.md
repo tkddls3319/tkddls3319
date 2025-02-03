@@ -5,6 +5,10 @@
 
 저는 Digital Twin, Digital Factory, Metaverse, AX, AI, LLM, Unity, Unreal, OpenGL, IOCP 서버, Akka.NET, C#, C++, React, WebAPI, 도커 등에 관심이 많은 개발자입니다. 
 
+요즘에는 개인프로젝트로 Akka.net-IOCP-Web-MessengerServer를 개발하고 있어요.!
+
+( https://github.com/tkddls3319/Akka.net-IOCP-Web-MessengerServer )
+
 이 저장소는 제가 공부한 내용을 기반으로 진행한 개인 프로젝트를 공유하기 위한 공간입니다.
 
 ## 💻 Tech Stack & Tools
