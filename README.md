@@ -12,10 +12,10 @@
 이 저장소는 제가 공부한 내용을 기반으로 진행한 개인 프로젝트를 공유하기 위한 공간입니다.
 
 앞으로 진행 하고 싶은 개인 프로젝트
-- AKKA.NET + grpc
-- Redis pub/sub 서버 + Signal서버 + WebRtc(Unity)
-- React + SAP.NET
+- Redis pub/sub 서버 + WebRtc(Unity) + Signal서버
+- React + ASP.NET
 - React + Unity
+- AKKA.NET + grpc
 
 ## 💻 Tech Stack & Tools
 
