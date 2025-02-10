@@ -3,7 +3,7 @@
 
 안녕하세요! 
 
-저는 Digital Twin, Digital Factory, Metaverse, AX, AI, LLM, Unity, Unreal, OpenGL, IOCP 서버, Akka.NET, C#, C++, React, WebAPI, 도커 등에 관심이 많은 개발자입니다. 
+저는 Digital Twin, Digital Factory, Unity, Unreal, OpenGL, IOCP, Akka.NET, C#, C++, React, WebAPI, Docker, AI, LLM 등에 관심이 많은 개발자입니다. 
 
 요즘에는 개인프로젝트로 Akka.net-IOCP-Web-MessengerServer를 개발하고 있어요.!
 
@@ -13,8 +13,7 @@
 
 앞으로 진행 하고 싶은 개인 프로젝트
 - Redis pub/sub 서버 + WebRtc(Unity) + Signal서버
-- React + ASP.NET
-- React + Unity
+- React + ASP.NET + Unity
 - AKKA.NET + grpc
 
 ## 💻 Tech Stack & Tools
