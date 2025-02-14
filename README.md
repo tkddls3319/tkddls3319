@@ -15,6 +15,7 @@
 - Redis pub/sub 서버 + WebRtc(Unity) + Signal서버
 - React + ASP.NET + Unity
 - AKKA.NET + grpc
+- Unity + LLM + Python
 
 ## 💻 Tech Stack & Tools
 
