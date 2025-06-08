@@ -3,7 +3,7 @@
 
 안녕하세요! 
 
-저는 Digital Twin, Digital Factory, Unity, Unreal, OpenGL, IOCP, Akka.NET, C#, C++, React, WebAPI, Docker, AI, LLM 등에 관심이 많은 개발자입니다. 
+저는 Python, Digital Factory, Unity, Unreal, OpenGL, IOCP, Akka.NET, C#, C++, React, WebAPI, Docker, AI, LLM 등에 관심이 많은 개발자입니다. 
 
 요즘에는 개인프로젝트로 Akka.net-IOCP-Web-MessengerServer를 개발하고 있어요.!
 
