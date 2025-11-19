@@ -1,5 +1,5 @@
 ## 🔶 ParkSangIn 
-[![Blog](https://img.shields.io/badge/Blog-UsingSystem-%23ff5722?style=flat&logo=tistory&logoColor=white)](https://usingsystem.tistory.com/)
+[![Blog](https://img.shields.io/badge/Blog-UsingSystem-%23ff5722?style=flat&logo=tistory&logoColor=white)](https://usingsystem.tistory.com/) [![Gmail](https://img.shields.io/badge/Gmail-Email_Me!-d14836?logo=gmail&logoColor=white)](mailto:tkddls3319@gmail.com)
 
 ### 🔶 Tech Stack
 
