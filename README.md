@@ -21,5 +21,8 @@
 - Big Data
 
 
-| [![Github Stats](https://github-readme-stats.vercel.app/api?username=tkddls3319&amp;count_private=true&amp;hide=contribs,prs&amp;show_icons=true&amp;theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkddls3319&amp;layout=compact&amp;theme=vue-dark&amp;) |
+ | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkddls3319&amp;layout=compact&amp;theme=vue-dark&amp;) | [![Github Stats](https://github-readme-stats.vercel.app/api?username=tkddls3319&amp;count_private=true&amp;hide=contribs,prs&amp;show_icons=true&amp;theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) |
 |:---:|:---:|
+
+
+<img src="https://komarev.com/ghpvc/?username=tkddls3319&color=orange" alt="tkddls3319" />
