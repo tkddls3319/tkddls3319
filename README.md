@@ -26,9 +26,8 @@
 - SmartFactory & DigitalTwin
 
 
- | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkddls3319&amp;layout=compact&amp;theme=gruvbox&amp;) | [![Github Stats](https://github-readme-stats.vercel.app/api?username=tkddls3319&amp;&count_private=true&amp;hide=contribs,prs&amp;show_icons=true&amp;theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) |
-|:---:|:---:|
-
+ | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkddls3319&amp;layout=compact&amp;theme=gruvbox&amp;) | <a href="https://github.com/tkddls3319?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=tkddls3319&theme=gruvbox&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="@tkddls3319's github-readme-stats"/></a> | <a href="https://github.com/tkddls3319?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=tkddls3319&theme=gruvbox&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="@AJ's github-readme-streak-stats"/></a> |
+|:---:|:---:|:---:|
 
 
 
